@@ -1,8 +1,24 @@
+.App {
+  background: #C9ADA7;
+  padding: 20px 10px;
+}
+
 .App header {
   margin: 30px 0;
 }
 
 .App footer {
+  font-size: 15px;
   text-align: center;
   margin: 30px 0;
+  color: #9A8C98;
+}
+
+.App a {
+  text-decoration: none;
+  color: #9A8C98;
+}
+
+.App a:hover {
+  text-decoration: underline;
 }

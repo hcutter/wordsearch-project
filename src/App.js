@@ -7,9 +7,10 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="honey" />
         </main>
-        <footer>coded by Hannah Cutter</footer>
+        <footer>
+          <a href="https://github.com/hcutter/wordsearch-project.git">Open-Source Code</a> by Hannah Cutter</footer>
       </div>
     </div>
   );
