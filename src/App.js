@@ -10,7 +10,9 @@ function App() {
           <Dictionary defaultKeyword="hello" />
         </main>
         <footer>
-          <a href="https://github.com/hcutter/wordsearch-project.git">Open-Source Code</a> by Hannah Cutter</footer>
+          <a href="https://github.com/hcutter/wordsearch-project.git" target="_blank">Open-Source Code</a> by 
+          <a href="https://portfolio-hannah-cutter.netlify.app/" target="_blank"> Hannah Cutter</a>
+        </footer>
       </div>
     </div>
   );
